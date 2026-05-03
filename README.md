@@ -1,66 +1,60 @@
-###
+# 👋 Olá, eu sou o Nicolas Melo
 
-<div align="center">
-  <a href="www.linkedin.com/in/idnicolasmelo" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="25" />
-  </a>
-  <a href="https://www.instagram.com/nicolaszs01/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&color=E4405F&logoColor=white&style=for-the-badge" height="25" />
-  </a>
-</div>
+💻 Estudante de Tecnologia da Informação com foco em desenvolvimento Full Stack
+🚀 Em transição de carreira (RH → TI)
+📚 Evoluindo constantemente em programação e desenvolvimento de sistemas
 
-###
+---
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
-</div>
+## 🧠 Sobre mim
 
-###
+Atualmente atuo na área de RH (Departamento Pessoal), mas estou em transição para a área de tecnologia, buscando minha primeira oportunidade como desenvolvedor.
 
-<h1 align="center">hey there 👋</h1>
+Tenho me dedicado diariamente aos estudos, criando projetos e fortalecendo minha base em lógica de programação, front-end e back-end.
 
-###
+---
 
-<h3 align="left">👩‍💻  About Me</h3>
+## 🚀 Tecnologias
 
-###
+* 🌐 HTML
+* 🎨 CSS
+* ⚡ JavaScript
+* 🗄️ SQL
+* ☕ Java
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+---
 
-###
+## 📂 Projetos em destaque
 
-<h3 align="left">🛠 Language and tools</h3>
+🚧 **Site para nutricionista**
+Projeto em fase de planejamento e prototipação no Figma.
+A stack prevista inclui:
 
-###
+* Front-end: HTML, CSS, JavaScript e React
+* Back-end: Node.js
+* Banco de dados: Oracle
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" height="40" alt="ruby logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" height="40" alt="circleci logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
-</div>
+---
 
-###
+## 🎯 Objetivo
 
-<h3 align="left">🔥   My Stats :</h3>
+Conquistar minha primeira oportunidade na área de desenvolvimento, onde eu possa evoluir constantemente, adquirir experiência prática e contribuir com soluções reais.
 
-###
+---
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+## 📈 Em evolução
 
-###
+* 📚 Projetos acadêmicos
+* 🚀 Desenvolvimento Full Stack
+* 🔗 Integração com APIs
+* 🛠️ Versionamento com Git
+
+---
+
+## 📫 Contato
+
+* 💼 LinkedIn: https://www.linkedin.com/in/idnicolasmelo
+
+---
+
+⭐ Obrigado por visitar meu perfil!
