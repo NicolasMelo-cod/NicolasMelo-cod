@@ -20,7 +20,6 @@ Tenho me dedicado diariamente aos estudos, criando projetos e fortalecendo minha
 * 🎨 CSS
 * ⚡ JavaScript
 * 🗄️ SQL
-* ☕ Java
 
 ---
 
@@ -38,7 +37,7 @@ A stack prevista inclui:
 
 ## 🎯 Objetivo
 
-Conquistar minha primeira oportunidade na área de desenvolvimento, onde eu possa evoluir constantemente, adquirir experiência prática e contribuir com soluções reais.
+Conquistar minha primeira oportunidade na área de desenvolvimento ou dados, onde eu possa evoluir constantemente, adquirir experiência prática e contribuir com soluções reais.
 
 ---
 
